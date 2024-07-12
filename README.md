@@ -1,2 +1,3 @@
 # Setup
-run `pip install tk`
+1) run `pip install tk`
+2) run the python file
