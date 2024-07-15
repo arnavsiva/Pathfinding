@@ -1,3 +1,4 @@
 # Setup
-1) run `pip install tk`
-2) run the Python file
+1) run the Python file
+
+NO NEED TO SETUP ANYTHING. AS LONG AS YOU HAVE PYTHON, TKINTER SHOULD BE INSTALLED. IF IT IS NOT, run `pip install tk`
